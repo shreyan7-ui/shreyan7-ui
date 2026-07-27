@@ -2,7 +2,7 @@
 
 ### 🚀 Building scalable data pipelines • Exploring Machine Learning • Turning data into decisions
 
-- 🔭 I'm currently working on **Market Intellgence data**
+- 🔭 I'm currently working on **Market Intelligence data**
 
 - 💬 Ask me about **Data Engineering, Spark, SQL, Python, AWS, ETL Pipelines, Market Data Analytics, and Machine Learning**
 
