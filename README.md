@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Market Intelligence data**
 
-- 💬 Ask me about **Data Engineering, Spark, SQL, Python, AWS, ETL Pipelines, Market Data Analytics, and Machine Learning**
+- 💬 Ask me about **Data Engineering, Spark, AWS, ETL Pipelines and Machine Learning**
 
 - 📫 How to reach me **shreyankundu73@gmail.com**
 
