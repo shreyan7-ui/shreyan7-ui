@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Shreyan+Kundu;Data+Engineer;Exploring+Machine+Learning)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🚀 Building scalable data pipelines • Exploring Machine Learning • Turning data into decisions<br>   <br>    🔭 Currently building a **Market Intelligence Platform**<br><br>    💬 Ask me about Data Engineering, Spark, AWS, ETL Pipelines and Machine Learning<br><br> 🤖 Exploring Machine Learning to integrate predictive analytics into modern data pipelines.<br><br>   📫 Reach me at **kundu.shreyan7@gmail.com**<br><br>    ⚡ Fun fact 🎯 I don't just like data—I like finding the story hidden inside it.
+🚀 Building scalable data pipelines • Turning data into decisions<br>   <br>    🔭 Currently building a **Market Intelligence Platform**<br><br>    💬 Ask me about Data Engineering, Spark, AWS, ETL Pipelines and Machine Learning<br><br> 🤖 Exploring Machine Learning to integrate predictive analytics into modern data pipelines.<br><br>   📫 Reach me at **kundu.shreyan7@gmail.com**<br><br>    ⚡ Fun fact 🎯 I don't just like data—I like finding the story hidden inside it.
 
 # 🚀 Featured Projects
 
